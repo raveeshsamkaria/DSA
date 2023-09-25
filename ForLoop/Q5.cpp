@@ -1,4 +1,4 @@
-// Print char from 'A' to 'Z' & 'Z' to 'A' with the help of a for loop.
+// Print char from 'A'to'Z' & 'Z'to'A' with the help of a for loop.
 #include <iostream>
 using namespace std;
 
